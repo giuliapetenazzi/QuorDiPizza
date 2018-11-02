@@ -1,0 +1,57 @@
+banco
+pizza
+
+banco
+Coca Cola
+2.5
+analcolici
+
+banco
+Fanta
+2.5
+analcolici
+
+banco
+Acqua
+2
+analcolici
+
+banco
+The alla pesca
+2.5
+analcolici
+
+banco
+The al limone
+2.5
+analcolici
+
+banco
+Pils piccola
+3
+alcolici
+
+banco
+Pils media
+4.5
+alcolici
+
+pizza
+2
+pomodoro
+mozzarella
+Margherita
+
+pizza
+3
+pomodoro
+mozzarella
+wurstel
+Viennese
+
+pizza
+3
+pomodoro
+mozzarella
+patatine fritte
+Patatosa
